@@ -1,2 +1,2 @@
-# homebrew-brx
-future home for the [brx](https://github.com/coloradocolby/brx) formulae
+# homebrew-fsrx
+future home for the [fsrx](https://github.com/thatvegandev/fsrx) formulae
