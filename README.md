@@ -7,5 +7,5 @@ future home for the [fsrx](https://github.com/thatvegandev/fsrx) formulae
     loop
     muted
   >
-  <source src="https://d3gh0u5ybuerce.cloudfront.net/projects/thokr/demo.webm" type="video/webm" />
+  <source src="https://d3gh0u5ybuerce.cloudfront.net/projects/thokr/demo.webm.mov" type="video/webm" />
   </video>
