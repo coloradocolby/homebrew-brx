@@ -6,6 +6,6 @@ future home for the [fsrx](https://github.com/thatvegandev/fsrx) formulae
     autoPlay
     loop
     muted
-    className="object-cover my-6 rounded-md aspect-video"
-    src="https://d3gh0u5ybuerce.cloudfront.net/projects/thokr/demo.webm"
-  />
+  >
+  <source src="https://d3gh0u5ybuerce.cloudfront.net/projects/thokr/demo.webm" type="video/webm" />
+  </video>
